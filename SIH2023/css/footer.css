@@ -1,0 +1,36 @@
+
+.container-fluid-footer {
+    background-color: #242a48;
+    width: 100%;
+    /* margin-top: px; */
+    margin-bottom: 0px !important;
+    position: relative;
+    padding: 120px 80px 23.5px 80px;
+    bottom: 0 !important
+}
+
+.block-footer {
+    padding-bottom: 20px
+}
+
+.footer-headings {
+    color: #fff;
+    border-bottom: 1px #FFB74D solid;
+    padding-bottom: 10px;
+    font-size: 22px;
+}
+
+.list-items {
+    color: #fff;
+    margin-bottom: 0px;
+    font-size: 15px;
+    padding: 3px;
+}
+
+.fa-sm {
+    font-size: 35px;
+    color: #fff;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px
+}
